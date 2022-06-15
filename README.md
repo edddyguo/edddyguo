@@ -1,4 +1,5 @@
-### Emmmmm 👋
+# Don't idle away your time
+🐂
 
 <!--
 **edddyguo/edddyguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
